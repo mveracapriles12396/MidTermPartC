@@ -10,6 +10,11 @@ package midtermexam_versiona_extensioncode;
  */
 public class TestUserprofile {
     public static void main(String[] args){
+	/*
+ 		addcomments in UserProfile.java file and 
+ 		fetch+merge the code in your local repo. 
+		screenshot of your local repo shoudl be uploaded in the dropbox assignment
+        */
         java.util.Scanner scanner = new java.util.Scanner(System.in);
         System.out.println("Enter your user name");
         String name = scanner.next();
